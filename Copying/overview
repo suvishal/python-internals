@@ -1,0 +1,26 @@
+Topics
+- Assignment
+- Shallow Copy
+- Deep Copy
+- Nested Structures
+
+shallow_copy.py
+Experiments:
+
+- copy.copy()
+- List slicing
+- Dictionary copying
+
+deep_copy.py
+Experiments:
+
+- copy.deepcopy()
+- Nested dictionaries
+- Nested lists
+
+Interview Questions
+- Difference between assignment and copying?
+- When should deepcopy be avoided?
+- Why can deepcopy be expensive?
+
+Production Relevance - Configuration objects and request state isolation.
