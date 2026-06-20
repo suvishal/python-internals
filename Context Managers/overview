@@ -1,0 +1,22 @@
+Topics
+- with statement
+- enter()
+- exit()
+- contextlib
+
+with_statement.py
+Experiments:
+- File handling
+- Database connections
+
+custom_context_manager.py
+Build:
+- Timer context manager
+- Temporary directory manager
+
+Interview Questions
+- Why use context managers?
+- How do they prevent resource leaks?
+- Difference between try-finally and with?
+
+Production Relevance - Database sessions and file management.
