@@ -1,0 +1,29 @@
+01 - Memory Management
+    Topics
+    - Object Model
+    - Reference Counting
+    - Garbage Collection
+    - Circular References
+    - Memory Allocation
+    - Stack vs Heap
+
+reference_counting.py
+    Experiments:
+    - sys.getrefcount()
+    - Assignment and aliasing
+    - Function arguments and references
+
+garbage_collection.py
+    Experiments:
+    - Circular references
+    - gc module
+    - gc.collect()
+    - gc.get_objects()
+
+Interview Questions
+    How does Python manage memory?
+    Why does Python need garbage collection if it already has reference counting?
+    What are circular references?
+    What is the difference between stack and heap memory?
+
+Production Relevance - Memory leaks in long-running backend services.
