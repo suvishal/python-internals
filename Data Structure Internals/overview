@@ -1,0 +1,27 @@
+Topics
+- List Internals
+- Dictionary Internals
+- Set Internals
+- Hash Tables
+
+list_resize.py
+Experiments:
+- Dynamic array resizing
+- Append complexity
+
+dict_hashing.py
+Experiments:
+- Hash collisions
+- Dictionary lookups
+
+set_hashing.py
+Experiments:
+- Membership testing
+- Collision handling
+
+Interview Questions
+- Why is dictionary lookup O(1) average?
+- Why can it degrade to O(n)?
+- Why is list append amortized O(1)?
+
+Production Relevance - Caching and efficient lookups.
