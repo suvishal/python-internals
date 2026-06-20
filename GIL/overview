@@ -1,0 +1,23 @@
+Topics
+- Global Interpreter Lock
+- CPU-bound tasks
+- IO-bound tasks
+- Multiprocessing
+
+gil_demo.py
+Experiments:
+- Single thread vs multiple threads
+- Performance measurements
+
+cpu_bound_vs_io_bound.py
+Experiments:
+- Threading performance
+- Multiprocessing performance
+
+Interview Questions
+- What is the GIL?
+- Why does Python have the GIL?
+- Why does threading help IO-bound tasks?
+- Why does multiprocessing help CPU-bound tasks?
+
+Production Relevance - Designing scalable Python backend systems.
