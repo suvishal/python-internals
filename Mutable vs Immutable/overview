@@ -1,0 +1,21 @@
+Topics
+- Mutable Objects
+- Immutable Objects
+- Identity vs Equality
+- Object Aliasing
+
+examples.py
+Experiments:
+
+- Lists
+- Dictionaries
+- Sets
+- Strings
+- Tuples
+
+Interview Questions
+- Why are strings immutable?
+- Why are tuples hashable?
+- Why can mutable default arguments be dangerous?
+
+Production Relevance - Avoiding bugs caused by shared state.
