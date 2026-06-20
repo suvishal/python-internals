@@ -1,0 +1,24 @@
+Topics
+- Functions as First-Class Objects
+- Closures
+- Decorators
+- functools.wraps()
+
+function_decorators.py
+Build:
+- Logging decorator
+- Timing decorator
+- Retry decorator
+- Authentication decorator
+
+class_decorators.py
+Build:
+- Singleton decorator
+- Registration decorator
+
+Interview Questions
+- What is a closure?
+- How do decorators work internally?
+- Why use functools.wraps()?
+
+Production Relevance - Logging, caching, authentication, observability.
