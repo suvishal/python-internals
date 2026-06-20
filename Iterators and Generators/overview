@@ -1,0 +1,24 @@
+Topics
+- Iterator Protocol
+- iter()
+- next()
+- Generators
+- yield
+- Generator Expressions
+
+iterator_protocol.py
+Build:
+- Custom iterator
+- Fibonacci iterator
+
+generators.py
+Build:
+- File reader generator
+- Infinite generator
+- Pagination generator
+- Interview Questions
+- Difference between iterable and iterator?
+- Why are generators memory efficient?
+- When should generators be preferred?
+
+Production Relevance - Streaming large files and paginated APIs.
