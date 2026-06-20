@@ -1,0 +1,28 @@
+Topics
+- Processes
+- Threads
+- Thread Pools
+- Multiprocessing
+- Async Programming
+
+threading_demo.py
+Build:
+- Producer-consumer example
+- Thread synchronization
+
+multiprocessing_demo.py
+Build:
+- CPU-bound tasks
+- Process pools
+
+asyncio_demo.py
+Build:
+- Concurrent API calls
+- Async file reading
+
+Interview Questions
+- Difference between threads and processes?
+- What is a race condition?
+- When should multiprocessing be preferred?
+
+Production Relevance - High-throughput backend systems.
